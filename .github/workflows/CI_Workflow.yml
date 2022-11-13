@@ -1,9 +1,9 @@
-name: g3_CI_Workflow
+name: g1_CI_Workflow
 
 on: [push]
 
 jobs:
-  g3_CI:
+  g1_CI:
     runs-on: ubuntu-latest
 
     steps:
